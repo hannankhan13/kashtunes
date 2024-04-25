@@ -1,0 +1,15 @@
+{
+  "name": "kashtunes",
+  "version": "1.0.0",
+  "description": "Feel Kashmir's soul in every tune",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Mohammad Hanan",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  }
+}
