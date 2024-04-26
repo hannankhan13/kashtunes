@@ -8,6 +8,7 @@ module.exports = {
     publicPath: '/dist/', 
 
   },
+  devtool: 'inline-source-map',
   mode: 'development',
   devServer: {
     static: {
